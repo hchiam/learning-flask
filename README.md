@@ -33,11 +33,11 @@ http://hchiam.pythonanywhere.com/
 
 ## More examples:
 
-http://hchiam.pythonanywhere.com/hello
-http://hchiam.pythonanywhere.com/hello/Howard
-http://hchiam.pythonanywhere.com/not-valid-url
-http://hchiam.pythonanywhere.com/post/1
-http://hchiam.pythonanywhere.com/post/2
-http://hchiam.pythonanywhere.com/path/some/arbitrary/path
-http://hchiam.pythonanywhere.com/error
-http://hchiam.pythonanywhere.com/login
+- http://hchiam.pythonanywhere.com/hello
+- http://hchiam.pythonanywhere.com/hello/Howard
+- http://hchiam.pythonanywhere.com/not-valid-url
+- http://hchiam.pythonanywhere.com/post/1
+- http://hchiam.pythonanywhere.com/post/2
+- http://hchiam.pythonanywhere.com/path/some/arbitrary/path
+- http://hchiam.pythonanywhere.com/error
+- http://hchiam.pythonanywhere.com/login
