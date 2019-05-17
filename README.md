@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
+## Setup:
+
 ```
 python3 -m venv venv
 . venv/bin/activate # to use the virtual environment
@@ -12,6 +14,7 @@ http://localhost:5000
 deactivate # to close the virtual environment
 ```
 
+## After that:
 And then after that, every time you want to run the site:
 ```
 . venv/bin/activate
@@ -24,4 +27,17 @@ Remember to close the venv when you're done:
 deactivate
 ```
 
-Example: http://hchiam.pythonanywhere.com/
+## Example: 
+
+http://hchiam.pythonanywhere.com/
+
+## More examples:
+
+http://hchiam.pythonanywhere.com/hello
+http://hchiam.pythonanywhere.com/hello/Howard
+http://hchiam.pythonanywhere.com/not-valid-url
+http://hchiam.pythonanywhere.com/post/1
+http://hchiam.pythonanywhere.com/post/2
+http://hchiam.pythonanywhere.com/path/some/arbitrary/path
+http://hchiam.pythonanywhere.com/error
+http://hchiam.pythonanywhere.com/login
