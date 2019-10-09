@@ -4,7 +4,7 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## Setup:
 
-```
+```bash
 python3 -m venv venv
 . venv/bin/activate # to use the virtual environment
 pip install Flask
@@ -16,14 +16,14 @@ deactivate # to close the virtual environment
 
 ## After that:
 And then after that, every time you want to run the site:
-```
+```bash
 . venv/bin/activate
 flask run
 http://localhost:5000
 ```
 
 Remember to close the venv when you're done:
-```
+```bash
 deactivate
 ```
 
